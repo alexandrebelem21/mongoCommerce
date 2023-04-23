@@ -7,6 +7,3 @@
 # BSON data files
 assets/produtos.bson
 node_modules
-
-challenges/a.mongodb
-challenges/aaa
